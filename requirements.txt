@@ -1,0 +1,4 @@
+gym[classic_control]
+torch
+numpy==1.24.4
+matplotlib
